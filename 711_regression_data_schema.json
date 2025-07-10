@@ -1,0 +1,63 @@
+{
+    "features": [
+        {
+            "label": "article",
+            "type": "number"
+        },
+        {
+            "label": "article_description",
+            "type": "text"
+        },
+        {
+            "label": "manufacturer",
+            "type": "category"
+        },
+        {
+            "label": "gtin",
+            "type": "number"
+        },
+        {
+            "label": "merchandise_category",
+            "type": "category"
+        },
+        {
+            "label": "article_category",
+            "type": "category"
+        },
+        {
+            "label": "article_type",
+            "type": "category"
+        },
+        {
+            "label": "gtin_category",
+            "type": "category"
+        },
+        {
+            "label": "base_unit_of_measure",
+            "type": "category"
+        },
+        {
+            "label": "family",
+            "type": "category"
+        },
+        {
+            "label": "subfamily",
+            "type": "category"
+        },
+        {
+            "label": "sales_unit",
+            "type": "category"
+        }
+    ],
+    "labels": [
+        {
+            "label": "net_sales_price",
+            "type": "number"
+        },
+        {
+            "label": "sales_price_gross",
+            "type": "number"
+        }
+    ],
+    "name": "regression-dataset-schema"
+}

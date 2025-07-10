@@ -1,0 +1,38 @@
+{
+    "topN": 2,
+    "objects": [
+        {
+            "objectId": "eeb6f196-eb18-47f5-84fa-ad3ed5f79361",
+            "features": [
+                {
+                    "name": "article",
+                    "value": "5"
+                },
+                {
+                    "name": "article_description",
+                    "value": "MILK 3LT"
+                },
+                {
+                    "name": "manufacturer",
+                    "value": ""
+                },
+                {
+                    "name": "merchandise_category",
+                    "value": "RC0011"
+                },
+                {
+                    "name": "gtin_category",
+                    "value": "HE"
+                },
+                {
+                    "name": "article_type",
+                    "value": "HAWA"
+                },
+                {
+                    "name": "base_unit_of_measure",
+                    "value": "EA"
+                }
+            ]
+        }
+    ]
+}
